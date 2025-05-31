@@ -22,7 +22,7 @@ const config = {
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "private",
   OWNER_NAME: process.env.OWNER_NAME || "©Bandaheali",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "923253617422",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "923355757415",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
